@@ -2,7 +2,7 @@
 
 - ![Design preview for the REST Countries API with color theme switcher coding challenge](design/desktop-preview.jpg)
 
-- [Preview the challenge fulfilled by Satya Prasad Behara](https://rest-country-api-webapp.netlify.app/)
+- [Preview](https://rest-country-api-webapp.netlify.app/)the developed webapp.
 
 ## Welcome! 👋
 
