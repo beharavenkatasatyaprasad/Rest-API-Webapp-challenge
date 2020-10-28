@@ -1,8 +1,8 @@
 # Frontend Mentor - REST Countries API with color theme switcher
 
-- ![Design preview for the REST Countries API with color theme switcher coding challenge](design/desktop-preview.jpg)
+- Design ![preview](design/desktop-preview.jpg) for the REST Countries API with color theme switcher coding challenge
 
-- [Preview](https://rest-country-api-webapp.netlify.app/)the developed webapp.
+- [Preview](https://rest-country-api-webapp.netlify.app/) the developed webapp.
 
 ## Welcome! 👋
 
